@@ -60,6 +60,4 @@
         android:layout_below="@+id/password"
         android:textSize="22dp"/>
 
-
-
 </RelativeLayout>
